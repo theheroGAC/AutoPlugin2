@@ -13,7 +13,7 @@ JAPANESE["UPDATER_ERROR"] =                             "自動更新に失敗�
 
 --Options Menu
 JAPANESE["MENU_TITLE"] =                                "AutoPlugin II"
-JAPANESE["MENU_PSVITA"] =                               "PSVita用プラグイン"
+JAPANESE["MENU_PSVITA"] =                               "Vita用プラグイン"
 JAPANESE["MENU_PSP"] =                                  "PSP用プラグイン (Adrenaline)"
 JAPANESE["MENU_EXTRAS"] =                               "EXTRAメニュー"
 JAPANESE["MENU_DOWNLOADS"] =                            "ダウンロード"
@@ -467,7 +467,7 @@ JAPANESE["INSTALLP_DESC_MAFUINPUT"] =                   "MAFU-Iは、Vitaへの�
 JAPANESE["INSTALLP_DESC_COREUNLOCK"] =                  "Vita用のプラグインで、ゲームモードのアプリケーションがシステム予約済みのCPUコア(CPU3)を使用できるようにするもの"
 JAPANESE["INSTALLP_DESC_CAPUNLOCK"] =                   "Vitaの自作ソフト向けに、ゲーム以外の機能の一部を有効にします。現在利用可能な機能：cache0: などの一部の仮想ドライブのマウントを許可する、およびゲームアプリケーションで第4コアを使用できるようにする。"
 JAPANESE["INSTALLP_DESC_DS4TOUCH"] =                    "MiniVitaTV を使用して、VitaTV および VitaにDS4タッチパッドのサポート(ds4vita方式)を追加します。"
-JAPANESE["INSTALLP_DESC_LCDSPACE"] =                    "ワンクリックでLCDの色空間を変更し、PSPEmuアプリケーションで色空間設定を強制適用します(PSVITA 2000のみ)。"
+JAPANESE["INSTALLP_DESC_LCDSPACE"] =                    "ワンクリックでLCDの色空間を変更し、PSPEmuアプリケーションで色空間設定を強制適用します(VITA2000のみ)。"
 JAPANESE["INSTALLP_DESC_VOLLIGHTBAR_DS4"] =             "Vita-DS4コントローラーで音量を調節。DS4のライトバーをDS4のバッテリー残量インジケーターとして使用"
 JAPANESE["INSTALLP_DESC_FDFIX"] =                       "このプラグインは、Vitaの自作ソフトにおいて、サスペンドおよびレジューム後にファイルディスクリプタが無効になってしまう問題を修正します。"
 
@@ -519,7 +519,7 @@ JAPANESE["INSTALLP_DESC_ADRUSBENABLER"] =               "AdrenalineとPS2/PS3間
 JAPANESE["INSTALLP_DESC_3GDISABLE"] =                   "これが3Gを無効にする正しい方法です。これにより、システムに対して、このVitaが通常のWi-Fi専用モデルであると錯覚させる効果が得られます。"
 JAPANESE["INSTALLP_DESC_VITANEARESTN"] =                "Vita用のシンプルなtaiHENプラグインで、テクスチャサンプリングを上書きします。線形サンプリングではなく、ポイントフィルタリング方式によるレンダリングを強制します。"
 JAPANESE["INSTALLP_DESC_DT2S"] =                        "このバージョンでは、画面のどこかを2回タップすると動作します。このバージョンが推奨されない唯一の理由は、意図せずにタッチスクリーンを2回タップしてしまうことがあるからです。"
-JAPANESE["INSTALLP_DESC_YAMT"] =                        "PSVita/PSTV用の別の（再）マウントツールカーネルプラグイン （Ensoが必要、ファームウェア3.60および3.65とのみ互換性あり）"
+JAPANESE["INSTALLP_DESC_YAMT"] =                        "Vita/VitaTV用の別の（再）マウントツールカーネルプラグイン （Ensoが必要、ファームウェア3.60および3.65とのみ互換性あり）"
 JAPANESE["INSTALLP_DESC_ITLSENSO"] =                    "Enso対応デバイスにTLS v1.2を追加します"
 JAPANESE["INSTALLP_DESC_KUIO"] =                        "KuioはTaiHen用の軽量カーネルモジュールで、ユーザーモジュールが基本的なI/O操作のためにux0：dataにアクセスできるようにします"
 JAPANESE["INSTALLP_DESC_VSHMENU"] =                     "PSVitaゲームおよびHomebrews用のVSHメニューtaiHENプラグイン （L + R + START または L + R + SELECTでVSHメニューを開く）"
